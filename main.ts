@@ -2,8 +2,8 @@
 // Tuesday 24 November 2026, for make.fun's news-image-20261124.
 //
 // entry.png beside this file is the picture: a newspaper front page
-// whose single dominant scene shows South Korea's dawn airspace alert
-// over Ulleung Island — an unidentified aircraft crossing at first
+// whose single dominant scene shows South Korea's dawn alert over
+// Ulleung Island — Russian jets entering the air defence zone at first
 // light, interceptors climbing, a shelter warning on the island —
 // under a masthead that names the day in full. Three short supporting
 // stories (the CAS ruling on Africa's title, Moscow's warning to
